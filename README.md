@@ -8,6 +8,69 @@
 <a href="LICENSES/DOCS-CC-BY-4.0.txt"><img alt="Docs License" src="https://img.shields.io/badge/Docs-CC%20BY%204.0-yellow"></a>
 </p>
 
+# 🚀 Interested in Embodied AI? Explore the UMI-3D Ecosystem
+
+<div align="center">
+
+<h3>
+  🌐 <a href="https://umi-3d.github.io/">UMI-3D Project Homepage</a>
+</h3>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Physical-Intelligence-Laboratory/UMI-3D-Hardware">
+        <b>🔧 UMI-3D Hardware</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/hku-mars/UMI-3D">
+        <b>🛰️ UMI-3D SLAM Pipeline</b>
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Physical-Intelligence-Laboratory/UMI-3D-Policy">
+        <b>🤖 UMI-3D Policy</b>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Physical-Intelligence-Laboratory/UMI-3D-Hardware">
+        <img src="docs/assets/nav_hardware.jpg" width="100%" alt="UMI-3D Hardware"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hku-mars/UMI-3D">
+        <img src="docs/assets/nav_processing.jpg" width="100%" alt="UMI-3D SLAM Pipeline"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Physical-Intelligence-Laboratory/UMI-3D-Policy">
+        <img src="docs/assets/nav_policy.jpg" width="100%" alt="UMI-3D Policy"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      Hardware design, BOM, CAD, 3D-print parts
+    </td>
+    <td align="center">
+      SLAM, synchronization, calibration, and data processing
+    </td>
+    <td align="center">
+      Policy training, deployment, inference<br><br>
+      <a href="https://github.com/Physical-Intelligence-Laboratory/UMI-3D-Dataset">
+        <b>📦 Dataset & Models</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ## Table of Contents
